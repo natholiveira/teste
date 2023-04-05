@@ -7,4 +7,8 @@ public class Aula1 {
     public static Double calcular_valores(Double valorA, Double valorB) {
         return valorA + valorB;
     }
+
+    public static Double calcular_valores(Double valorA, Double valorB, Double valorC) {
+        return valorA + valorB + valorC;
+    }
 }
